@@ -1,0 +1,9 @@
+Designator,Footprint,Quantity,Value,LCSC Part #
+"(CAPTURE)A2, (HOME)A1, (LS)L3, (RS)R3, B1(1K)1, B2(2K)1, B3(1P)1, B4(2P)1, DOWN1, L1(4P)1, L2(4K)1, LEFT1, R1(3P)1, R2(3K)1, RIGHT1, S1(SELECT)1, S2(START)1, UP1",JST_XH_B2B-XH-A_1x02_P2.50mm_Verticalez,18,SW_Push_45deg,
+"H1, H2, H3, H4",MountingHole_3.5mm_Pad_Via,4,MountingHole,
+"H5, H6",TestPoint_Pad_2.5x2.5mm,2,MountingHole_Pad,
+"J1, J3, J6",JST_XH_B4B-XH-A_1x04_P2.50mm_Vertical,3,Conn_01x04_Female,
+J2,PinHeader_2x10_P2.54mm_Vertical,1,Conn_02x10_Odd_Even,
+J4,USB_B_Lumberg_2411_02_Horizontal,1,USB_B,
+J5,JST_XH_B5B-XH-A_1x05_P2.50mm_Vertical,1,Conn_01x05_Socket,
+U1,RPi_Pico_SMD_TH,1,Pico,
